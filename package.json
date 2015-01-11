@@ -1,0 +1,14 @@
+{
+  "name": "uok",
+  "version": "0.0.1",
+  "description": "Simple way to carring function parameters and dump errors to console",
+  "main": "uok.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexahdp/uok"
+  },
+  "keywords": [],
+  "author": "Alexander Pezikov",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
